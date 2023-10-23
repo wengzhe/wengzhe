@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <img align="right" height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengzhe&layout=compact" />
 
 - 🔭 I’m currently working on:
-  - [apache/nuttx](https://github.com/apache/nuttx).
-  - And some other projects I'm interested in.
+  - Network subsystem of [apache/nuttx](https://github.com/apache/nuttx).
+  - Some other projects I'm interested in.
 - 💬 Ask me about anything [here](https://github.com/wengzhe/wengzhe/issues).
 - 📫 Reach me through GitHub or i@zheweng.email.
 
