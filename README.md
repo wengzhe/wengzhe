@@ -1,4 +1,4 @@
-### Hey 👋, I'm Zhe Weng!
+### Hey 👋, This is Zhe Weng!
 
 <!--
 **wengzhe/wengzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
