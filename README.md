@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <img align="right" height="138" src="https://github-readme-stats.vercel.app/api?username=wengzhe&show_icons=true&hide_rank=true" />
+<img align="right" height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengzhe&layout=compact" />
 
 - 🔭 I’m currently working on:
   - [apache/nuttx](https://github.com/apache/nuttx).
