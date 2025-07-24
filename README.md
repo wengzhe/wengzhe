@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengzhe&layout=compact" />
 
 - 🔭 I’m currently working on:
-  - Graphics & Network subsystem of [vela](https://github.com/open-vela).
+  - Graphics & network subsystem of [vela](https://github.com/open-vela).
   - Some other projects I'm interested in.
 - 💬 Ask me about anything [here](https://github.com/wengzhe/wengzhe/issues).
 - 📫 Reach me through GitHub or i@zheweng.email.
